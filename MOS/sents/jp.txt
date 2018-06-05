@@ -1,0 +1,21 @@
+Japanese Sentences
+1. kare wa ki no bassai wo shi te iru 。|彼は木の伐採をしている。
+2. jiko ga cho-do ima okoxtsu ta tokoro da 。|事故がちょうど今起こったところだ。
+3. kanojo wa hon wo yoma nakaxtsu ta 。|彼女は本を読まなかった。
+4. ichi kyu- zero zero nen ni kare wa igirisu wo sari 、 sonomama nidoto modora nakaxtsu ta 。|１９００年に彼はイギリスを去り、そのまま二度と戻らなかった。
+5. sore wa taihen kachi ga aru 。|それは大変価値がある。
+6. shinbun ga kai te iru koto wa honto- da 。|新聞が書いていることは本当だ。
+7. kare wa jibun no keiken wo kocho- shi te ixtsu ta 。|彼は自分の経験を誇張していった。
+8. kono atari wa midokoro ga ippai desu 。|このあたりは見どころがいっぱいです。
+9. itsumo gakko- ni okureru no wa do-yuu wake da 。|いつも学校に遅れるのはどういう訳だ。
+10. sukunakutomo ni mairu wa aruke masu 。|少なくとも２マイルは歩けます。
+11. kono bu e ya ya no doko ka ni komo kakure te iru koto wa bun wakaxtsu te iru zo 。|この部へ屋やのどこかに隠かくれていることは分わかっているぞ。
+12. karera wa niwa de chu-shoku wo toxtsu te iru 。|彼らは庭で昼食をとっている。
+13. shitsumon no subete ni kotae nakere ba nari mase n ka 。|質問の全てに答えなければなりませんか。
+14. go ni mo saki ni mo kon'na hanashi wo kii ta koto ga nai 。|後にも先にもこんな話を聞いたことがない。
+15. kare ga hanashi owaru to min'na damaxtsu te i ta 。|彼が話し終わるとみんな黙っていた。
+16. kono kutsu doko de kaxtsu ta no ？|この靴どこで買ったの？
+17. ryo-shin wa watashi ni soko e ika se ta 。|両親は私にそこへ行かせた。
+18. watashi wa gaikoku ni takusan no tomodachi ga i masu 。|私は外国にたくさんの友達がいます。
+19. kare wa asa kara ban made hatarai ta 。|彼は朝から晩まで働いた。
+20. watashi wa kino- fushigi na yume wo mi mashi ta 。|私は昨日不思議な夢を見ました。
