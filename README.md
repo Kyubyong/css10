@@ -31,13 +31,13 @@ For details, check [this](css10.v.1.0.pdf).
 ## Pretrained Models & Audio Samples
 
 |Code|Lanuage|Pretrained Models|Audio Samples|
-|--|--|--|--|--|--|--|--|
+|--|--|--|--|
 |de|German|[DCTTS](https://www.dropbox.com/s/nfwv48bnovidnod/de_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/81dt66qylfskw1g/de_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_de_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_de_t)|
 |el|Greek|[DCTTS](https://www.dropbox.com/s/sd92n1k374p8fks/el_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_el_d)|
 |es|Spanish|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_es_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_es_t)|[DCTTS](https://www.dropbox.com/s/eyx8fztqulnhijr/es_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/eyx8fztqulnhijr/es_logdir.zip?dl=0)|
 |fi|Finnish|[DCTTS](https://www.dropbox.com/s/n6uiy9rdvfv6bpy/fi_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/oqa36ixagwvrao3/fi_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_fi_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_nl_t)|
 |fr|French|[DCTTS](https://www.dropbox.com/s/6zpcqzu6hbxg2eb/fr_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/2vaa73jbjyhcfhl/fr_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_fr_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_fr_t)|
-|hu|Hungarian|[DCTTS](https://www.dropbox.com/s/gtzzf79c351ovre/hu_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/ogy6rqwirosf3mw/hu_logdir.zip?dl=0)|[[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_hu_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_hu_t)|
+|hu|Hungarian|[DCTTS](https://www.dropbox.com/s/gtzzf79c351ovre/hu_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/ogy6rqwirosf3mw/hu_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_hu_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_hu_t)|
 |ja|Japanese|[DCTTS](https://www.dropbox.com/s/dkva7kc4r72pz3z/ja_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/gh1wyfhnyf1j4fb/ja_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_ja_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_ja_t)|
 |nl|Dutch|[DCTTS](https://www.dropbox.com/s/dgmx28zh82187cs/nl_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/30l4xpt0xedd58n/nl_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_nl_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_nl_t)|
 |ru|Russian|[DCTTS](https://www.dropbox.com/s/0u6q3mv2qhbgwei/ru_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/mg5jv06p8ucwq6s/ru_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_ru_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_ru_t)|
