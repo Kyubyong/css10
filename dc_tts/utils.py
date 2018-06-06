@@ -2,7 +2,7 @@
 #/usr/bin/python2
 '''
 By kyubyong park. kbpark.linguist@gmail.com. 
-https://www.github.com/kyubyong/multi-speech-corpora/dc_tts
+https://www.github.com/kyubyong/css10
 '''
 from __future__ import print_function, division
 
