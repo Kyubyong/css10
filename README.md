@@ -10,7 +10,7 @@ Score tests on the synthesized speech samples. We make our
 datasets, pretrained models, and test resources publicly available.
 We hope they will be used for future speech tasks.
 
-For details, check [this](css10.v.1.0.pdf).
+For details, check [our paper](https://arxiv.org/abs/1903.11269).
 
 ## Environments & Dependencies
 
