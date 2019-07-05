@@ -11,6 +11,8 @@ datasets, pretrained models, and test resources publicly available.
 We hope they will be used for future speech tasks.
 
 For details, check [our paper](https://arxiv.org/abs/1903.11269).
+Kyubyong gave a [talk](https://m.youtube.com/watch?v=omGpmNCaZwM&feature=youtu.be) with this paper at the workshop of 2018 The Korean 
+Society of Speech Sciences. 
 
 ## Environments & Dependencies
 
