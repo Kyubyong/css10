@@ -57,5 +57,14 @@ Society of Speech Sciences.
 |zh|Chinese|[DCTTS](https://www.dropbox.com/s/coy57a9ueenq9sk/zh_logdir.zip?dl=0) \| [TACOTRON](https://www.dropbox.com/s/7wf4hd73f4nc1dk/zh_logdir.zip?dl=0)|[DCTTS](https://soundcloud.com/kyubyong-park/sets/ms10_zh_d) \| [TACOTRON](https://soundcloud.com/kyubyong-park/sets/ms10_zh_t)|
 
 
+## Cite
+```
+@article{park2019css10,
+  title={CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages},
+  author={Park, Kyubyong and Mulc, Thomas},
+  journal={Interspeech},
+  year={2019}
+}
+```
 
 By Kyubyong Park, Tommy Mulc
